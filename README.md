@@ -6,3 +6,5 @@
 
 - 💻&nbsp; Currently working on freelance React applications.
 - 💬&nbsp; For professional enquiries  📧email me: seanredmon@seanred.io. 专业查询: 微信<a href="weixin://dl/chat?SeanRed360">SeanRed360</a>.
+
+![](https://komarev.com/ghpvc/?username=seanred360)
