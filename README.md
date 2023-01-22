@@ -8,4 +8,3 @@
 - 💬&nbsp; For professional enquiries  📧email me: seanredmon@seanred.io. 专业查询: 微信<a href="weixin://dl/chat?SeanRed360">SeanRed360</a>.
 
 ![](https://komarev.com/ghpvc/?username=seanred360)
-![preview-sean-red](https://user-images.githubusercontent.com/41050673/213923811-e5951b95-3e2e-45aa-93d2-6fd4959781eb.png)
