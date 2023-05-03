@@ -4,7 +4,6 @@
 |`Planet Facts` | `Donnie Fan Comedy in Beijing` | `Kid's Beginner Smartboard Book` |
 |<div><a href="https://planets-fact-site-mu.vercel.app/"><img height="125" alt="Planets Fact Site demo" src="https://github.com/seanred360/sean-red-portfolio/blob/48c259c4cf53191bcce49da5824bee26e324274d/public/images/portfolio/planets-fact-site/planets-fact-site-preview.gif"/></a></div> | <div><a href="https://donniefan.com"><img height="125" alt="donniefan.com demo" src="https://user-images.githubusercontent.com/41050673/213923428-487a5df7-0daf-493b-b672-e141546c9507.gif"/></a></div> | <div><a href="https://seanred.itch.io/kba"><img height="125" alt="Kid's Beginner demo" src="https://user-images.githubusercontent.com/41050673/235970263-b71661f0-02a2-4bc7-9459-b1fa1e5af157.png"/></a></div> |
 
-- 💻&nbsp; Currently working on freelance React applications.
 - 💬&nbsp; For professional enquiries  📧email me: seanredmon@seanred.io. 专业查询: 微信<a href="weixin://dl/chat?SeanRed360">SeanRed360</a>.
 
 ![](https://komarev.com/ghpvc/?username=seanred360)
